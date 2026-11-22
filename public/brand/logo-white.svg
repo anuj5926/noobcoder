@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 64" width="296" height="64" role="img" aria-labelledby="title">
+  <title id="title">Noob Coders Team</title>
+  <g fill="#FFFFFF">
+    <path d="M6 6h13v7h-4v38h4v7H6z"/>
+    <path d="M58 6H45v7h4v38h-4v7h13z"/>
+  </g>
+  <path fill="#FFFFFF" d="M21.5 6H31l11.5 52H33z"/>
+  <g transform="translate(84 9)" fill="#FFFFFF">
+    <path d="M0 0h4v24H0zM14 0h4v24h-4zM0 0h5l13 24h-5z"/>
+    <path transform="translate(21.5 0)" d="M6 0h6a6 6 0 0 1 6 6v12a6 6 0 0 1-6 6H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6zM6 4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"/>
+    <path transform="translate(43 0)" d="M6 0h6a6 6 0 0 1 6 6v12a6 6 0 0 1-6 6H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6zM6 4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"/>
+    <path transform="translate(64.5 0)" d="M0 0h10a6.5 6.5 0 0 1 0 13H0zM4 4v5h6a2.5 2.5 0 0 0 0-5zM0 9h10a7.5 7.5 0 0 1 0 15H0zM4 13v7h6a3.5 3.5 0 0 0 0-7z"/>
+    <path transform="translate(92 0)" d="M17 0H6a6 6 0 0 0-6 6v12a6 6 0 0 0 6 6h11v-4H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h11z"/>
+    <path transform="translate(112.5 0)" d="M6 0h6a6 6 0 0 1 6 6v12a6 6 0 0 1-6 6H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6zM6 4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"/>
+    <path transform="translate(134 0)" d="M0 0h10a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8H0zM4 4v16h6a4 4 0 0 0 4-4V8a4 4 0 0 0-4-4z"/>
+    <path transform="translate(155.5 0)" d="M0 0h15v4H4v6h9v4H4v6h11v4H0z"/>
+    <path transform="translate(174 0)" d="M0 0h10a7 7 0 0 1 0 14H0zM4 4v6h6a3 3 0 0 0 0-6zM0 0h4v24H0zM8.5 13h4.6l5 11h-4.6z"/>
+    <path transform="translate(195.5 0)" d="M16 0H5a5 5 0 0 0-5 5v4a5 5 0 0 0 5 5h6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H0v4h11a5 5 0 0 0 5-5v-4a5 5 0 0 0-5-5H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h11z"/>
+    <rect x="0" y="39" width="151" height="2" fill="#FFFFFF"/>
+    <g transform="translate(161 34) scale(0.5)">
+      <path d="M0 0h16v4h-6v20H6V4H0z"/>
+      <path transform="translate(26 0)" d="M0 0h15v4H4v6h9v4H4v6h11v4H0z"/>
+      <path transform="translate(51 0)" d="M7 0h4l7 24h-4.2l-1.46-5H5.66L4.2 24H0zM9 7.54 6.83 15h4.34z"/>
+      <path transform="translate(79 0)" d="M0 0h4.5L11 13l6.5-13H22v24h-4V8.5l-5.4 10.5H9.4L4 8.5V24H0z"/>
+    </g>
+  </g>
+</svg>

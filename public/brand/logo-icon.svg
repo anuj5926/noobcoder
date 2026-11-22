@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title">
+  <title id="title">Noob Coders Team</title>
+  <rect width="64" height="64" rx="14" fill="#7957FF"/>
+  <g transform="translate(9.6 9.6) scale(0.7)">
+    <g fill="#FFFFFF">
+      <path d="M6 6h13v7h-4v38h4v7H6z"/>
+      <path d="M58 6H45v7h4v38h-4v7h13z"/>
+    </g>
+    <path fill="#C6FF4D" d="M21.5 6H31l11.5 52H33z"/>
+  </g>
+</svg>
